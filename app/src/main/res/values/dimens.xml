@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Note, this resource file is used to store the -->
+<!-- Note, this resource file that consists of "dimen" values must have their values in #dp.... Hence "dimensions" -->
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_item_height">88dp</dimen>
+</resources>
